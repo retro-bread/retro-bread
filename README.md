@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programmer working with<br>Lua, C++, Go, and Python.  <br>Interested in building simple and useful projects,  <br>and creating awesome digital circuits using Logisim Evolution.  <br>
+Programmer working with<br>Lua, C++, C, Go, and Python.  <br>Interested in building simple and useful projects,  <br>and creating awesome digital circuits using Logisim Evolution.  <br>
 
 
 # 💻 Tech Stack:
